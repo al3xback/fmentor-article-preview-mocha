@@ -34,9 +34,9 @@ describe('DOM', () => {
 	});
 
 	it("should have a card image wrapper element with a class of 'card__image'", () => {
-		const cardImageEl = document.querySelector('.card__image');
+		const cardImgEl = document.querySelector('.card__image');
 
-		assert.ok(cardImageEl);
+		assert.ok(cardImgEl);
 	});
 
 	it("should have a card content wrapper element with a class of 'card__content'", () => {
