@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-article-preview-mocha",
 	"version": "1.0.0",
-	"description": "article preview component using mocha testing",
+	"description": "article preview component using mocha",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
